@@ -67,7 +67,6 @@ textarea {
     margin: 0 auto;
     width: 100%;
     min-height: 320px;
-    background-image: url('/assets/disaster-girl.png');
     background-position: center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -90,7 +89,6 @@ select {
     width: 80%;
     border: none;
     padding: 0.600rem;
-    // background-color: #000000;
     border: 1px solid #24282b;
     border-radius: .300rem;
     color: #24282b;
@@ -116,7 +114,7 @@ select {
     color: #000000;
 }
 
-#meme-list {
+#memes-list {
     width: 100%;
     font-size: large;
     color: black;
